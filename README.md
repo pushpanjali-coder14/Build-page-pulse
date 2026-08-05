@@ -28,3 +28,7 @@ This project is a static HTML page.
 
 ## Testing
 Run `node test.js` in terminal to see test cases for footer validation.
+## AI Tools Used
+I used ChatGPT for debugging HTML/CSS errors and generating boilerplate code for test.js. 
+I also used GitHub Copilot for auto-completing code and suggesting better CSS properties. 
+These tools helped me save time and focus on design decisions and code quality.
